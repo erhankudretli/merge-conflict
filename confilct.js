@@ -1,3 +1,6 @@
-let number=2;
-let divider=1;
-// bu aciklama main branchte eklendi.
+let number=6;
+let divider=3;
+let conflictOrnegi = "Conflict icin branchde eklendi, maine dönüp degisiklik yapildi.";
+let  main = "main branchde eklendi";
+let farkliSatir = "mainde farkli satira bir degisken daha eklendi";  
+// bu aciklama main branchte eklendi. newbranch te iken degistirildi.
